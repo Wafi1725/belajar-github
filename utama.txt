@@ -1,0 +1,8 @@
+Apa itu Git dan Github
+Sebelum membandingkan kita harus tahu dulu apa itu VCS, yaitu Version Control System.
+-VCS adalah perangkat lunak yang bisa melacak,mencatat,mengelola, dan menyimpan perubahan pada source code.
+
+-GIT
+Git software yang bisa melakukan VCS
+-GitHub
+GitHub adalah salah satu website yang bisa menggunakan Git
