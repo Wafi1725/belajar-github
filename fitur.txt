@@ -1,9 +1,0 @@
-Fitur yang akan ditambahkan
--penjelasan remote
-remote = sumber(web/app) yang memiliki repo
--penjelasan clone
-clone = mengambil repo dari remote
--penjelasan hash
-hash = penanda pada commit(berupa karakter unik)
--penjelasan checkout
-checkout = berpindah branch
