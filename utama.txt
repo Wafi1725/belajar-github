@@ -13,3 +13,7 @@ Istilah Istilah dalam git
 -branch = adalah cabang-cabang commit
 -push = mengekspor file local ke repository
 -pull = menyimpan file repository ke local
+remote = sumber(web/app) yang memiliki repo
+clone = mengambil repo dari remote
+hash = penanda pada commit(berupa karakter unik)
+checkout = berpindah branch
