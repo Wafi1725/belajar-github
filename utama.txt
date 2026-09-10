@@ -16,4 +16,3 @@ Istilah Istilah dalam git
 remote = sumber(web/app) yang memiliki repo
 clone = mengambil repo dari remote
 hash = penanda pada commit(berupa karakter unik)
-checkout = berpindah branch
