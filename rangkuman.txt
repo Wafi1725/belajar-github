@@ -1,0 +1,8 @@
+Rangkuman video dari WPU
+1.cara login di github
+2.membuat teks file sebagai contoh
+3.mempelajari commit
+4.mempelajari cara membuat branch
+5.mempelajari cara merge branch
+6.mempelajari cara membuat lebih dari 1 branch dan merge
+7.cara mengatasi conflict merge
