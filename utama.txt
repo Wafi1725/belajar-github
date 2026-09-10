@@ -6,3 +6,9 @@ Sebelum membandingkan kita harus tahu dulu apa itu VCS, yaitu Version Control Sy
 Git software yang bisa melakukan VCS
 -GitHub
 GitHub adalah salah satu website yang bisa menggunakan Git
+
+Istilah Istilah dalam git
+-repository = tempat untuk menyimpan folder dan file yang akan disimpan di git
+-commit = untuk mencatat & menyimpan perubahan pada repository
+-branch = adalah cabang-cabang commit
+-clone
